@@ -1,11 +1,11 @@
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --text-color: #eb1010;
+    --card-front-color: #e60ec9d7;
+    --card-back-color: #a700f4ce;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('img/uma-aurora-boreal-roxa-e-verde-acima-de-uma-montanha-de-neve_845014-450.avif   ');
     font-family: Bai Jamjuree;
 }
 
